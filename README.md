@@ -72,3 +72,11 @@ Example:
 python src/your_analysis_script.py
 
 Replace "your_analysis_script.py" with the name of the analysis file you want to execute.
+
+
+## What does the project demonstrate
+Using pandas, matplotlib and introductory seaborn, i have taken a japan housing prices b/w the years 2005-2014,
+cleaned the csv file and made out meaning insights about the data.
+It visually demonstrates buisness and analytical questions with observations recorded. 
+It also compares the drasticity of elements(price, region) over the span of years mentioned.
+
