@@ -1,0 +1,5 @@
+--python
+--jupyter notebook
+--pandas module
+--matplotlib module
+--seaborn module
